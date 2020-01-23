@@ -1,2 +1,2 @@
 # clon-de-google
-Mi primer repositorio publico
+Proyecto del Curso Practico Html y Css
